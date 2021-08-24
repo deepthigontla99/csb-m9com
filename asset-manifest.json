@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://deepthigontla99.github.io/csb-m9com/static/css/main.de1e3feb.chunk.css",
+    "main.js": "https://deepthigontla99.github.io/csb-m9com/static/js/main.094659ff.chunk.js",
+    "main.js.map": "https://deepthigontla99.github.io/csb-m9com/static/js/main.094659ff.chunk.js.map",
+    "runtime-main.js": "https://deepthigontla99.github.io/csb-m9com/static/js/runtime-main.c227c00e.js",
+    "runtime-main.js.map": "https://deepthigontla99.github.io/csb-m9com/static/js/runtime-main.c227c00e.js.map",
+    "static/js/2.36bfdcb3.chunk.js": "https://deepthigontla99.github.io/csb-m9com/static/js/2.36bfdcb3.chunk.js",
+    "static/js/2.36bfdcb3.chunk.js.map": "https://deepthigontla99.github.io/csb-m9com/static/js/2.36bfdcb3.chunk.js.map",
+    "index.html": "https://deepthigontla99.github.io/csb-m9com/index.html",
+    "static/css/main.de1e3feb.chunk.css.map": "https://deepthigontla99.github.io/csb-m9com/static/css/main.de1e3feb.chunk.css.map",
+    "static/js/2.36bfdcb3.chunk.js.LICENSE.txt": "https://deepthigontla99.github.io/csb-m9com/static/js/2.36bfdcb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c227c00e.js",
+    "static/js/2.36bfdcb3.chunk.js",
+    "static/css/main.de1e3feb.chunk.css",
+    "static/js/main.094659ff.chunk.js"
+  ]
+}
